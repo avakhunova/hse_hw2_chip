@@ -14,7 +14,8 @@ HTML-выдача FastQC находится в папке data
 ### FastQC
 ENCFF000APS | ENCFF000APT | ENCFF000AOG
 --- | --- | ---
-![image](https://github.com/avakhunova/hse_hw2_chip/blob/main/data/Снимок%20экрана%202023-03-01%20в%2016.28.18.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/ChipSeq_ENCFF726ZWD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/ChipSeq_ENCFF612KDN.png)
+![image](https://github.com/avakhunova/hse_hw2_chip/blob/main/data/Снимок%20экрана%202023-03-01%20в%2016.28.18.png) | ![image](https://github.com/avakhunova/hse_hw2_chip/blob/main/data/Снимок%20экрана%202023-03-01%20в%2016.26.33.png) | ![image](<img width="460" alt="Снимок экрана 2023-03-01 в 16 28 18" src="https://user-images.githubusercontent.com/114533402/222175595-e950929e-5445-4d6e-a0df-7f04f946d64a.png">
+)
 ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsq_ENCFF052DPD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsq_ENCFF726ZWD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsq_ENCFF612KDN.png)
 ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Psqs_ENCFF052DPD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Psqs_ENCFF726ZWD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Psqs_ENCFF612KDN.png)
 ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsc_ENCFF052DPD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsc_ENCFF726ZWD.png) | ![image](https://github.com/Vladm0z/hse_hw2_chip/raw/main/data/Pbsc_ENCFF612KDN.png)
