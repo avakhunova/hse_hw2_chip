@@ -12,7 +12,9 @@ HTML-выдача FastQC находится в папке data
 [ENCFF000APS](https://github.com/Vladm0z/hse_hw2_chip/blob/main/data/ENCFF052DPD_fastqc.html) | [ENCFF000APT](https://github.com/Vladm0z/hse_hw2_chip/blob/main/data/ENCFF612KDN_fastqc.html) | [ENCFF000AOG](https://github.com/Vladm0z/hse_hw2_chip/blob/main/data/ENCFF726ZWD_fastqc.html)
 
 ### FastQC
+
 ENCFF000APS
+
 <img width="460" alt="Снимок экрана 2023-03-01 в 16 24 16" src="https://user-images.githubusercontent.com/114533402/222176878-ea2f3a6e-9985-40d4-a4ae-ff3fe888a168.png">
 <img width="850" alt="Снимок экрана 2023-03-01 в 16 24 33" src="https://user-images.githubusercontent.com/114533402/222176882-740b20eb-6cbb-4928-9076-6c21437cd72e.png">
 <img width="850" alt="Снимок экрана 2023-03-01 в 16 25 01" src="https://user-images.githubusercontent.com/114533402/222176890-474613a8-fe76-4b56-82a7-c6e98bf5bd43.png">
@@ -30,9 +32,27 @@ ENCFF000APT
 <img width="848" alt="Снимок экрана 2023-03-01 в 16 27 08" src="https://user-images.githubusercontent.com/114533402/222177132-3ecb8677-73e1-40ed-9c5a-d339d1eb49dd.png">
 
 ENCFF000AOG
-<img width="460" alt="Сн<img width="848" alt="Снимок экрана 2023-03-01 в 16 27 34" src="https://user-images.githubusercontent.com/114533402/222177436-8e9356c3-2277-4234-b3df-71dea191a68d.png">
-<img width="848" alt="Снимок экрана 2023-03-01 в 16 27 42" src="https://user-images.githubusercontent.com/114533402/222177447-673eb838-a115-4c41-8bc9-d69084c9e068.png">
-<img width="848" alt="Снимок экрана 2023-03-01 в 16 27 48" src="https://user-images.githubusercontent.com/114533402/222177453-44fc97b3-8747-441a-910e-62a1b0a310a0.png">
-<img width="848" alt="Снимок экрана 2023-03-01 в 16 27 55" src="https://user-images.githubusercontent.com/114533402/222177457-ce5fbf5b-5b6d-4271-9cfe-2a87b3caf912.png">
-<img width="848" alt="Снимок экрана 2023-03-01 в 16 28 03" src="https://user-images.githubusercontent.com/114533402/222177468-74bf3fc0-5911-4f79-be54-3f3a11c48d4d.png">
-имок экрана 2023-03-01 в 16 28 18" src="https://user-images.githubusercontent.com/114533402/222177377-3c397ef9-419b-4c21-8bb5-a88b7d769143.png">
+
+<img width="460" alt="Снимок экрана 2023-03-01 в 16 28 18" src="https://user-images.githubusercontent.com/114533402/222177806-467db0fd-e60e-4c4d-8194-d783e486cdaa.png">
+
+<img width="848" alt="Снимок экрана 2023-03-01 в 16 27 34" src="https://user-images.githubusercontent.com/114533402/222177891-6578c3eb-74f8-4732-a72c-116eea7d965d.png">
+<img width="848" alt="Снимок экрана 2023-03-01 в 16 27 42" src="https://user-images.githubusercontent.com/114533402/222177904-b1abe032-02e0-4d6a-95db-61aad39c1ccf.png">
+<img width="848" alt="Снимок экрана 2023-03-01 в 16 27 48" src="https://user-images.githubusercontent.com/114533402/222177910-64159540-1e2a-47a3-9f42-25eec2a6d152.png">
+<img width="848" alt="Снимок экрана 2023-03-01 в 16 27 55" src="https://user-images.githubusercontent.com/114533402/222177915-b63712c0-f8f0-4d07-854a-38ea8bb0073c.png">
+<img width="848" alt="Снимок экрана 2023-03-01 в 16 28 03" src="https://user-images.githubusercontent.com/114533402/222177921-ac25a183-7a2c-44c5-9d61-6a46922fa54b.png">
+
+Видно, что качество ридов достаточно хорошее и в подрезании нет необходимости 
+
+## Таблица со статистикой по выравниванию на 19 хромосому
+<img width="1052" alt="Снимок экрана 2023-03-01 в 16 38 10" src="https://user-images.githubusercontent.com/114533402/222179626-865cc9ad-ecda-4514-8e60-2ac3fdff05f9.png">
+
+## Диаграммы Эйлера-Венна
+### Пересечение пиков 1 реплики и пиков ENCODE
+<img width="1211" alt="Снимок экрана 2023-03-01 в 18 09 04" src="https://user-images.githubusercontent.com/114533402/222179983-a0424d1c-8155-4e5e-bd85-d30c7015c839.png">
+<img width="1211" alt="Снимок экрана 2023-03-01 в 18 09 31" src="https://user-images.githubusercontent.com/114533402/222180105-cc4f577a-0989-4423-82e9-8dd5f303beea.png">
+
+### Пересечение пиков 2 реплики и пиков ENCODE
+<img width="1211" alt="Снимок экрана 2023-03-01 в 18 09 52" src="https://user-images.githubusercontent.com/114533402/222180196-e20bdf31-3bf0-4a39-9f0a-93e1dab02246.png">
+<img width="1211" alt="Снимок экрана 2023-03-01 в 18 10 06" src="https://user-images.githubusercontent.com/114533402/222180248-79b34209-56bc-4702-aea9-0d8aebb78f9d.png">
+
+Пересечений довольно мало, это связано с тем, что выравнивание производилось лишь на одну хромосому, а в базе данных ENCODE пики составлены для всех хромосом. Этим же можно объяснить различные значения при пересечении наших пиков с пиками ENCODE и наоборот. 
